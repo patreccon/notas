@@ -1,0 +1,14 @@
+Notas del profesor.
+¿Cómo nace Git? El sistema open source de **Linux ** necesitaba estar en un sistema de control de versiones.
+ Por eso se asociaron con Beatkeeper.
+
+--Git fue creado por Linus Torvalds
+
+Entonces Linux creó su propio sistema de control de versiones distribuido. Se centró en:
+- Velocidad.
+- Diseño sencillo.
+- Fuerte apoyo en el desarrollo no lineal.
+- Completamente distribuido.
+- Capaz de manejar grandes proyectos.
+
+Además con Git puedes trabajar offline y te crea códigos hexadecimales para hacer referencia

@@ -1,0 +1,18 @@
+Agregar media queries a tu proyecto:
+
+1. Por medio de una hoja de estilo.
+
+<link rel="stylesheet" type="css/media" media="screen and (max-width:1024px)" href="css/media.css">
+
+2. En la hoja de estilo original junto a los demas propiedades css que dieron el disenio actual a la page
+(esta es la forma que usa el curso)
+
+3. A través de la etiqueta <style>
+
+<style>
+    @media screen and (max-width:1024px){
+        body{
+
+        }
+    }
+</style>

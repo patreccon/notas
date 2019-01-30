@@ -1,0 +1,17 @@
+Ajustando el header
+
+max-width: Ocupa el tamanio maximo indicado, en este caso 1000px, si los elementos hijos llegan a ocupar ese espacio, 
+de lo contrario, el contenedor padre solo tendra lo que necesiten los hijos.
+
+max-width:1000px;
+width:100% 
+
+arriba se traduce así: Abarca el 100% del ancho, pero dentro del limite de los 1000px;
+
+Pero hay una opción mas viable, flex:1, esto debido a que por las cuestiones del dimensionamiento del modelo de caja
+al alterar el padding, el ancho crecería.
+
+Por lo tanto,es mejor agregar flex:1 ya que el efecto será el mismo sin el incoveniente de dimensionamiento que conllevará
+el width al 100.
+
+Por que un elemento del menu pierde todo su altura cuando se cambia el display de flex a block

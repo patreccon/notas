@@ -1,0 +1,4 @@
+git diff sirve para saber los cambios entre versiones
+
+git diff v1 v1 donde v1 y v2 pueden ser tags, sha1 version acortada por --oneline
+o el sha1 completo

@@ -1,0 +1,12 @@
+
+Clonar un repositorio desde GitHUb hasta el disco duro de tu computadora. Aquí es donde descargamos un proyecto que es nuestro y de ese modo
+hacer las modificaciones correspondientes. Hay dos formas:
+
+HTTPS: Esta forma es la más fácil. No hace falta configuraciones extra.
+SSH: Este método ya es más sofisticado y necesita la generación de una SSH key.
+
+
+FORK a un repositorio
+
+Es una forma de clonar un proyecto que no es de nuestra propiedad, pero se desea hacer contribuciones.  Sólo es
+necesario hacer clic en el boton fork.

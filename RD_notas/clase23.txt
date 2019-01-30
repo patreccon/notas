@@ -1,0 +1,4 @@
+Agregando interactividad a nuestro sitio.
+
+Se agrega el evento clicl al boton de menu (burguerButton) para mostrar y ocultar
+el menu de navegación

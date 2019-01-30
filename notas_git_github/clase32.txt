@@ -1,0 +1,10 @@
+Si quieres mantener tu seguros dentro de GitHub es importante usar llaves ssh con el comando
+
+ssh-keygen -t rsa -b 4096 -C "email@email.com"
+
+
+Despues es necesario copiarla para continuar con la configuracion
+
+pbcopy < ~/.ssh/id_rsa.pub
+
+Enseguida, copiar la llave en Settings > SSH and GPG keys >New SSH Key

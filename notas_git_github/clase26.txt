@@ -1,0 +1,3 @@
+git rebase
+
+No elimina commit si no que los reacomoda.

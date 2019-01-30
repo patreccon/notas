@@ -1,0 +1,32 @@
+Las ramas sirven para crear versiones de nuestro proyecto, en las cuales se pueden agregar 
+diferentes cambios de manera segura sin alterar otras.
+
+branch es  un concepto clave en un sistema de control versiones. Por defecto la rama principal con la que
+se comienza trabajando es la MASTER. Para crear otra rama donde los cambios que se realizen sobre esta sean 
+indiferentes a la principal se escribe el siguiente comando:
+
+git branch <branch_name>
+
+Para borrar una rama:
+
+git branch -d <branch_name>
+
+Renombrar una rama
+
+git branch -m master <new_name>
+
+notice: It is not very recomendable rename master branch
+
+Para ver el listado de ramas creadas:
+
+git branch -l
+
+Notas del profesor:
+Hasta el momento hemos estado trabajando en la rama principal de git.
+Ahora nos vamos a centrar en las posibles ramas de nuestro proyecto.
+Comenzamos con ““Master”” que es la rama principal, sin embargo, podemos crear ramas 
+para que el equipo pueda trabajar en el proyecto. Lo ideal es que siempre tengas ramas
+adicionales para que si hacemos cambios podamos hacer modificaciones. Para crear una rama
+o un branch usamos el comando git branch.
+Si necesitamos borrar una rama definitivamente, debemos usar -D. Para renombrar una rama vamos 
+a usar el comando -m."

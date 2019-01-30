@@ -1,0 +1,6 @@
+Al craer ramas en un proyecto git, estamos creando diferentes versiones de nuestro proyecto. 
+Lo cual puede servir cuando en situaciones de la vida real necesitemos viajar en el tiempo de vida de 
+nuestro proyeto, por así decirlo. A esto se le llama moverse entre ramas, para eso existe el sig. comando:
+
+git checkout <sha1_version>
+git checkout -b <branch_name>

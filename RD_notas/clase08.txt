@@ -1,0 +1,20 @@
+MEDIA QUERIES:
+
+Es el modulo de css que hace posible el disenio responsivo.
+
+@media media_type and (condition){
+
+}
+
+Donde:
+
+media_type es el medio en el que se muestra la página, puede ser screen o print. La mayoría del tiempo
+se escribe screen.
+
+condition es donde se establece bajo que resoluciones se van a aplicar las propiedades css que 
+indiquemos dentro de {...}. La condicion se puede definirse con una o ambas de las sintaxis:
+max-width, para definir HASTA que resolución queremos determinado comportamiento;
+min-width, para definir DESDE que resolución nuestra media querie entre en acción.
+
+max-width:360px  (Desde)
+min-width:1080px (Hasta)

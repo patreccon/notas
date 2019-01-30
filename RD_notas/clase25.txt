@@ -1,0 +1,9 @@
+Presentación de terminos:
+
+nodejs
+npm
+
+Tu pagina de inicio siempre se tiene que llamar index.html, para que tu servidor sepa que mostrar.
+
+Arrancar servidor:
+static-server

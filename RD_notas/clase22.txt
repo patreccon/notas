@@ -1,0 +1,3 @@
+Adaptando el menu.
+
+Cuando se le asignan un valor a la propiedad height la propiedad align-items no surte efecto.

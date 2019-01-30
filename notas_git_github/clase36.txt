@@ -1,0 +1,7 @@
+Explorando la plataforma de GitHub
+Watch
+
+Podemos calificar los proyectos que hemos creado.
+Podemos ver las estadísticas de nuestro proyecto.
+También las personas que le han hecho fork.
+Podemos proteger ciertas ramas del proyecto.

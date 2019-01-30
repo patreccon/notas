@@ -1,0 +1,3 @@
+git reset --soft sha1
+
+Este comando nos regresa al estado de staging del sha1  o el tag pasado como parámetro.

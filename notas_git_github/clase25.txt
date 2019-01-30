@@ -1,0 +1,11 @@
+git merge 
+POSIBLES RESULTADOS:
+
+fast-forward: Cuando se realiza el merge  de una rama directamente originada de la master, es decir
+no hay cambios adicionales entre el tiempo de creacion de la rama a unir y la realizacion del merge.
+
+merge recursivo. Es un merge sin problema al igual que el fast-forward, pero en este caso si hay cambios durante
+el tiempo desde que se creo la rama a fusionar el momento de hacer el merge.
+
+merge con conflictos. Es cuando uno de los archivos tiene modificaciones diferentes en las ramas que se 
+estan fusionando. El conflicto se da por que git no sabe que modificaciones conservar y cuales no.

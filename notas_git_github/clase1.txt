@@ -1,0 +1,19 @@
+git, sistema de control de versiones multiplataforma.
+
+Y un sistema de control de versiones es un conjunto de herramientas para gestionar de forma eficiente
+las distintas versiones de un proyecto.
+
+git es local.
+
+git cuenta con 3 estados:
+
+1.Modified. En esta parte hemos realizado cambios en nuestros archivos, 
+pero aún no se ven reflejados en nuestra base de datos. 
+2.Staged. En esta parte marcamos nuestros archivos modificados dejándolos listos para confirmarlos.
+3.Committed. Es la parte en la que nuestra información está segura alojada en nuestras bases de datos.
+
+
+Los directorios es donde se almacenan los metadatos y las bd de nuestro proyecto. Es lo que se copia de una computadora
+a otra. 
+
+.gitignore es un archivo que lista los archivo no necesarios en cada commit.

@@ -1,0 +1,4 @@
+.gitignore
+
+Archivo para agregar o notificar a github cuales archivos no son necesarios estar enviando 
+al repositorio remoto.

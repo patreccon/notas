@@ -1,0 +1,13 @@
+Medidas relativas útiles en RD:
+
+% Unidad relativa a las dimensiones del elemento padre, el cual puede ser desde un elemento html
+hasta el viewport.
+
+em El valor de esta unidad depende del tamanio de la fuente de elemento más cercano, incluso el 
+elemento mismo.
+
+rem Su valor esta determinado por el tamanio de la fuente del elemento body o el mismo html, si este último tiene
+asignado un tamanio de fuente.
+
+vw/vh Al igual que los porcetajes, este elemento toma su valor dependiendo del viewport de la pantalla
+en la que se muestre la página.

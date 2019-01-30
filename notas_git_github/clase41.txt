@@ -1,0 +1,4 @@
+Existen dos formas de crear un pull request:
+
+Desde github
+Desde git

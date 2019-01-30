@@ -1,0 +1,20 @@
+GitHub, servicio de alojamiento que ofrece repositorios basados en git.
+
+Estos son algunos de ellos:
+
+GitHub permite que alojemos proyectos en repositorios de forma gratuita.
+Los repositorios son públicos, sin embargo Github tiene una forma de pago que te permite alojar tus proyectos de forma privada.
+Permite que puedas compartir tus proyectos de una forma mucho más fácil.
+Te permite colaborar para mejorar los proyectos de otros y a otros mejorar o aportar a los tuyos.
+Ayuda reducir significativamente los errores humanos, a tener un mejor mantenimiento de distintos entornos y a detectar fallos de una forma más rápida y eficiente.
+Es la opción perfecta para poder trabajar en equipo en un mismo proyecto.
+Ofrece todas las ventajas del sistema de control de versiones, Git, pero también tiene otras herramientas que ayudan a tener un mejor control de nuestros proyectos.
+Herramientas propias de GitHub
+Wiki. Esta herramienta ayuda en el mantenimiento necesario para las distintas versiones que tenga la página.
+
+Sistema de seguimiento de problemas. Esta herramienta es la que permite que otras personas, ya sean de tu equipo o no, puedan hacer mejoras, sugerencias y optimizaciones en nuestros proyectos. Así como también nos permite a nosotros hacerlo en los proyectos de otros.
+
+Herramienta de revisión de código. Esta herramienta nos permite poder hacer pequeñas anotaciones respecto a ciertas partes de un proyecto y con ello tener la colaboración de otros, creando una discusión de las mejoras y optimizaciones.
+
+Visor de ramas o branch. Nos permite conocer el progreso que llevamos en nuestros proyectos, mostrándonos cuántos updates hemos realizado a partir de nuestro master (primera versión del proyecto), así como también nos permite mirar los cambios que hemos realizado.
+

@@ -1,0 +1,7 @@
+git push <origin_name> <branch_name>
+
+Este comando nos sirve para enviar una rama hacia el repositorio remoto
+
+para enviar las etiquetas (tags)
+
+git push <origin_name> <branch_name> --tags

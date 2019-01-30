@@ -1,0 +1,23 @@
+Creación de un repositorio. 
+
+    Hay dos formas de crear un repo:
+
+    1. git init repo_name
+
+    Se crea una carpeta con el nombre del repositorio. Dentro de esta hay una carpeta oculta .git
+
+    2. git init
+
+    Una vez posicionados en la carpeta sobre la cual se creara el repositorio. Dentro de esta se creará la carpeta .git
+    
+
+    Para eliminar un repositorio basta con eliminar la carpeta oculta .git
+
+    COMMANDOS APRENDIDOS:
+
+    Para la creación de repos
+    git init repo_name
+    git init 
+
+    Para borrar carpetas/archivos
+    rm -rf folder_file

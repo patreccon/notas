@@ -1,0 +1,27 @@
+Insertar videos ej. de youtube.
+
+Etiqueta iframe, la cual tambien agrega marcos que visualizan otras páginas.
+
+Insertar un video de youtube es diferente a insertar un video directamente con html5, para esto hay que 
+apoyarse de la sig formula:
+
+height * 100 / width
+
+El resultado sera utilizado como porcetanje para la propiedad padding-top. Para esto se hizo uso de dos clases.
+flexible-video  & youtube
+
+.youtube{
+    width:100%
+    height:100%
+    position:absolute;
+    top:0;
+    bottom:0;
+    right:0:
+    left:0;
+}
+
+.flexible-video{
+    width:100%;
+    padding-top:56.25%;     /*height * 100 / width  === (315 * 100) / 560 */
+    position:relative;
+}

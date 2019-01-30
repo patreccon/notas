@@ -1,0 +1,15 @@
+window.matchMedia(media_querie)
+
+Tambien se nos ensenia sobre una medida para optimizar lo mas posible un sitio web.
+
+y es agregar y remover el listener de acuerdo a la resolucion que indica cuando aparece
+el boton sobre el que se agrega el manejador del evento.
+
+
+validation(ev){
+    if(ev.matches){
+        addEventListener(...)
+    }else{
+        removeEventListener(...)
+    }
+}

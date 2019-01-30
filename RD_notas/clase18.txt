@@ -1,0 +1,9 @@
+Insertando videos que tenemos almacenados en nuestro disco duro.
+
+tag de html5:
+
+<video src=""></video>
+
+Aprendimos que margin con tres propiedades es equivalente a:
+margin: 10px 23px 5px;
+top right/left bottom

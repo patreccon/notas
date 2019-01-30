@@ -1,0 +1,16 @@
+
+Es la forma en que se establece la conexion entre nuestro repo local y el repositorio en github
+
+
+Notas del profesor:
+-- git remote (Añadiendo un repositorio remoto a uno local)
+Tenemos que crear una conexión entre tu repositorio local y tu repositorio remoto para que puedas compartirlo 
+con la comunidad. Para esto vamos a usar un nuevo comando que en este caso es git remote. Por convención lo nombramos
+“origin”. Para borrarlo podemos usar git remote remove y el nombre del repositorio.
+
+
+COMMANDS:
+
+git remote add <nombre_origen> <URL>
+git remote -v
+git remote remove <nombre_origen> 

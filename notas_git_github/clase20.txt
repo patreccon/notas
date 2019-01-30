@@ -1,0 +1,7 @@
+git reset --hard  regresa hasta el commit del SHA1 sin staging
+ni working directory(eliminados)
+
+Se eliminaron del disco todos los archivos y modificaciones que fueron involucrados en commits anteriores al
+commit pasado como parámetro.
+
+NOTA: ES MUY PELIGROSO!!!!!

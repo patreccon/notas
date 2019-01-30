@@ -1,0 +1,22 @@
+Existen dos formas de etiquetar  commits:
+
+Ligeras
+
+git tag tag_name
+
+De esta forma se taggea el último commit sin necesidad de agregar anotación
+
+
+git tag -a tag_label -m 'mensaje dej tag'
+
+
+Esta es la forma para agregar una etiqueta con notación
+
+
+git tag -v tag_id
+
+Para ver el mensaje anexo al tag
+
+Para eliminar tags independientemente si son anotadas o no 
+
+git tag -d <tag_identifier>

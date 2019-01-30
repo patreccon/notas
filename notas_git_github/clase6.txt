@@ -1,0 +1,5 @@
+Los estados de Git y la base para el estendimiento de su flujo de trabajo.
+
+MODIFIED  -  WORKING DIRECTORY
+STAGED    -  STAGING AREA
+COMMITED  -  GIT DIRECTORY

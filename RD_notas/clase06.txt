@@ -1,0 +1,18 @@
+Problemas que se quiere resolver con RD:
+
+- No perder la legibilidad de un sitio web
+
+Primer linea de código:
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+Lo que hace esta meta tag es eliminar  el muestreo de la página a escala, es decir una versión reducida de 
+página en cuestión.
+
+Ahora en el viewport del dispostivo se muestra solo el ancho  establecido en la propiedad width dentro
+de la propiedad CONTENT, en este caso queda de forma variable, osea el archo del dispositivo en el que
+se visualize.
+
+initial-scale, es el zoom que tendra la  página, es decir si tiene el valor 1, el viewport de la pantalla
+mostrara solo el ancho establecido en la propiedad width, por el contrario, si es 0, se mostrará se seguira
+mostrando una versión reducida del sitio web.

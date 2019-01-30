@@ -1,0 +1,17 @@
+Instalación y configuracion de Git.
+
+La instalación varía de sistema operativo. Solo hay que seguir los pasos.
+
+Independientemente del sistema, es necesario configurar la identidad del usuario a quien se le relacionaran los
+commits que se hagan.
+
+
+git config --global user.name 'USERNAME'
+git config --global user.email <CORREO>
+
+
+Para checar el valor de una propiedad especifica:
+
+git config <key>
+
+git config user.name

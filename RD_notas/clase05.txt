@@ -1,0 +1,8 @@
+Developer tools:
+
+Checar como se ve tu página en diferentes resoluciones, emulando la pantalla de 
+diferentes dispositivos móviles.
+
+Tomar screenshots de tu sitio completo
+
+Ver los media queries

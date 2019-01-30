@@ -1,0 +1,21 @@
+Comandos aprendidos en esta clase:
+
+git add file_name
+
+Agrega archivos de estado modified a staged o tambien dicho de working directory a statging area
+
+git add -A 
+
+Lo mismo que el anterior, pero agregando todos los archivos en estado modified o working directory
+
+git rm --cached file_name
+
+Remueve el archivo indicado del staging area
+
+git rm -f  file_name
+
+Remueve el archivo indicado del repositorio (fisicamente alv)
+
+git reset HEAD --
+
+Remueve todos los archivos alojados en el staging area

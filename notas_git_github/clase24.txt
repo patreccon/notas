@@ -1,0 +1,5 @@
+
+If you want to your media queries work, use the meta tag!!!!! 
+DO NOT FORGET IT
+
+<meta name="viewport" content="width=device-width,scale=1">

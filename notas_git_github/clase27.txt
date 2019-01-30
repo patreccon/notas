@@ -1,0 +1,8 @@
+git stash es el commando que nos permite guardar los cambios para
+continuar trabajandolos después.
+
+variantes
+
+git stash list  -para ver todos los cambios pausados
+git stash drop stash@{N} para eliminar un stash específico
+git stash apply stash@{N} para aplicar ese stash a la rama y trabajar sobre ello

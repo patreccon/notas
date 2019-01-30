@@ -1,0 +1,5 @@
+Ejercicio con algun proyecto para el manejo de ramas con multiples commits de ser posible.
+Ramas:
+-crear 
+-mover
+-fusionar

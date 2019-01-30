@@ -1,0 +1,9 @@
+Iconos gratis icomoon.io
+
+De aquí:
+
+iconos para menu hamburguesa o iconos para los hipervinculos de 
+redes sociales.
+
+<i></i> utilizada como estilo italica, anteriormente, si se le anexa la propiedad 
+clase del icono, aparecerá un icono en nuestra página.

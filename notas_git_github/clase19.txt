@@ -1,0 +1,6 @@
+git reset --mixed sha1
+
+Este comando nos regresa al estado de working directory del sha1 (commit) o el tag pasado como parámetro.
+
+Los comandos git reset al ser ejecutados sobre el último commit no tienen efecto.
+

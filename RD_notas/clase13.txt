@@ -1,0 +1,9 @@
+
+
+Aprendizaje obtenido del repaso de las clases anteriores:
+
+NO ABUSAR DEL VALOR <INHERIT>
+
+
+Adaptando la visualizacion de la seccion portafolio
+ajuntando el proyecto con su img, los font-size  y los margenes.

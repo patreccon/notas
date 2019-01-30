@@ -1,0 +1,12 @@
+COMIENZA LA TALACHA
+WORK ON
+
+Diseño elástico con max-width y flex-wrap
+
+Edit:
+Para un mejor agrupamiento es necesario eliminar medidas fijas y más variables
+
+-Se reemplaza width por max-width
+
+- Se agrega el flex-wrap para eliminar el scroll horizontal que ocurren cuando no caben todos los elementos
+dentro del viewport

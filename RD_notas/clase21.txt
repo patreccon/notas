@@ -1,0 +1,7 @@
+Aqui se aprende a centrar de la forma antigua, es decir, antes de que existiera flex.
+
+{
+    display:block;
+    line-height:40px; /*altura del elemento contenedor*/
+    text-align:center;
+}

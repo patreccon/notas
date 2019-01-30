@@ -1,0 +1,15 @@
+Positions:
+
+stattic -default
+relative
+absolute
+fixed
+sticky
+
+
+al asignar un valor a la propiedad position se desbloquean las siguientes 4:
+
+top
+right
+bottom
+left

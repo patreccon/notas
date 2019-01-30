@@ -1,0 +1,19 @@
+COMANDOS:
+ 
+para movernos entre carpetas
+
+cd nombre_carpeta
+cd .. 
+
+
+ls listar los archivos dentro de un directorio
+
+mkdir Crear directorios/carpetas
+
+touch Crear archivos
+
+Vim  visualizar/editar un archivo
+
+rm -rf archivo/carpeta para borrar permanentemente
+
+ls -a Para ver, incluso archivos ocultos.

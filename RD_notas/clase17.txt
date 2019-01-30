@@ -1,0 +1,3 @@
+Modificaciones al Hero, Aqui entro un truco para ampliar una imagen en todo su
+padre contenedor. Esto es position abosluta con top bottom right and left asignados a cero.
+Y claro, el contenedor padre de position:relative;
